@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d42c15-3e98-432e-851f-233fd5d44831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myArt/account/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/static/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/templates/account/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/account/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoGallery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoGallery.iml" afterDir="false" />
+    <list default="true" id="64d42c15-3e98-432e-851f-233fd5d44831" name="Default Changelist" comment="renew">
+      <change afterPath="$PROJECT_DIR$/../Atom_JS/otte/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/account/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/myArt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/myArt/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/myArt/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/myArt/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,32 +23,37 @@
         <counts>
           <entry key="cfg" value="1" />
           <entry key="css" value="1" />
-          <entry key="html" value="2" />
-          <entry key="py" value="6" />
+          <entry key="html" value="16" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="13" />
-          <entry key="html" value="574" />
-          <entry key="py" value="946" />
-          <entry key="txt" value="7" />
+          <entry key="css" value="51" />
+          <entry key="html" value="2831" />
+          <entry key="py" value="3457" />
+          <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="13" />
-          <entry key="HTML" value="574" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="946" />
+          <entry key="CSS" value="51" />
+          <entry key="HTML" value="2831" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="3457" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -71,44 +61,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/account/forms.py">
+        <entry file="file://$PROJECT_DIR$/myArt/account/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <marker date="1534246010429" expanded="true" signature="55:60" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/account/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1534248654173" expanded="true" signature="180:949" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/account/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -119,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myArt/myArt/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="187">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#629#661#0" expanded="true" />
               </folding>
@@ -129,30 +85,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/account/templates/base.html">
+        <entry file="file://$PROJECT_DIR$/myArt/account/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myArt/account/static/css/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1534453844956" expanded="true" signature="33:34" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/account/templates/account/login.html">
+        <entry file="file://C:/Program Files/Python37/Lib/site-packages/django/conf/urls/static.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="227">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="124" column="1" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myArt/account/migrations/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myArt/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -167,19 +137,38 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Atomlou" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$USER_HOME$/Desktop/OwnCloud/DJANGO PYCHARM/proONE/django_test/myHope/myHope/urls.py" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/account/login.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/logged_out.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/account/dashboard.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/base.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_change_done.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_change_form.html" />
+        <option value="$PROJECT_DIR$/myArt/account/static/css/base.css" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_reset_form.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_reset_done.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_reset-email.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/password_reset_complete.html" />
         <option value="$PROJECT_DIR$/myArt/account/forms.py" />
         <option value="$PROJECT_DIR$/myArt/account/views.py" />
         <option value="$PROJECT_DIR$/myArt/account/urls.py" />
-        <option value="$USER_HOME$/Desktop/OwnCloud/DJANGO PYCHARM/proONE/django_test/myHope/myHope/urls.py" />
-        <option value="$PROJECT_DIR$/myArt/myArt/urls.py" />
-        <option value="$PROJECT_DIR$/myArt/account/templates/base.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/account/register.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/account/register_done.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/registration/login.html" />
+        <option value="$PROJECT_DIR$/myArt/account/models.py" />
         <option value="$PROJECT_DIR$/myArt/myArt/settings.py" />
-        <option value="$PROJECT_DIR$/myArt/account/templates/account/login.html" />
-        <option value="$PROJECT_DIR$/myArt/account/static/css/base.css" />
+        <option value="$PROJECT_DIR$/myArt/account/admin.py" />
+        <option value="$PROJECT_DIR$/myArt/myArt/urls.py" />
       </list>
     </option>
   </component>
@@ -215,36 +204,6 @@
               <item name="DjangoGallery" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoGallery" type="462c0819:PsiDirectoryNode" />
               <item name="myArt" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoGallery" type="462c0819:PsiDirectoryNode" />
-              <item name="myArt" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoGallery" type="462c0819:PsiDirectoryNode" />
-              <item name="myArt" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoGallery" type="462c0819:PsiDirectoryNode" />
-              <item name="myArt" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoGallery" type="462c0819:PsiDirectoryNode" />
-              <item name="myArt" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="account" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -313,14 +272,34 @@
       <option name="project" value="LOCAL" />
       <updated>1534245879270</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="renew">
+      <created>1534272133149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534272133149</updated>
+    </task>
+    <task id="LOCAL-00005" summary="16 sierpien">
+      <created>1534448172926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534448172926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deo">
+      <created>1534453687615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534453687615</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -330,10 +309,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932885" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.88724834" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4986577" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.69328856" weight="0.32907802" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.11275168" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -377,7 +356,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renew" />
-    <option name="LAST_COMMIT_MESSAGE" value="renew" />
+    <MESSAGE value="16 sierpien" />
+    <MESSAGE value="deo" />
+    <option name="LAST_COMMIT_MESSAGE" value="deo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
@@ -394,75 +375,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/account/views.py">
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/logged_out.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1534248654173" expanded="true" signature="180:949" ph="..." />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/account/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_change_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_change_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_reset-email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_reset_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/password_reset_complete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myArt/account/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
-            <marker date="1534246010429" expanded="true" signature="55:60" ph="..." />
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1534453844956" expanded="true" signature="99:104" ph="..." />
+            <marker date="1534453844956" expanded="true" signature="237:242" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/myArt/urls.py">
+    <entry file="file://$PROJECT_DIR$/myArt/account/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="513">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#629#661#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1534453844972" expanded="true" signature="942:949" ph="..." />
+            <marker date="1534453844972" expanded="true" signature="942:949" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myArt/account/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state relative-caret-position="374">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myArt/account/templates/account/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state>
+          <caret selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/account/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/account/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/account/static/css/base.css">
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/account/register_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="84" selection-start-line="5" selection-start-column="84" selection-end-line="5" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/templates/registration/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/django/conf/urls/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/account/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1534453844956" expanded="true" signature="33:34" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/myArt/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="124" column="1" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
         </state>
       </provider>
     </entry>
