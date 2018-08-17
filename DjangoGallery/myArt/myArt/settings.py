@@ -117,18 +117,15 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
-
 STATIC_URL = '/static/'
 
-STATICFILES_FINDERS= [
-    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
-]
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
-LOGIN_REDIRECT_URL ='dashboard'
-# if no next parametr redirect [request]
-LOGIN_URL ='login'
-# login required decorator
-LOGOUT_URL= 'logout'
+
+LOGIN_REDIRECT_URL = 'dashboard'
+LOGIN_URL = 'login'
+LOGOUT_URL = 'logout'
 
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
