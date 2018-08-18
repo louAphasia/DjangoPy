@@ -5,10 +5,11 @@
     <h1>Log-in</h1>
     {% if form.errors %}
     <p>
-        Please try again Your username nad password didn't match
+        Please try again if Your username and password didn't match
     </p>
     {% else %}
-    <p> Please this form to log-in if you dont have account <a href="{% url 'register' %}"> register here</a></p>
+    <p> Please this form to log-in or if you dont have account <a href="{% url 'register' %}"> register here</a></p>
+    <p>you can use email or username</p>
     {% endif %}
     <div class="'login-form">
         <form action="{% url 'login' %}" method="post">
