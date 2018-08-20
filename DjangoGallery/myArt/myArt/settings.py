@@ -26,7 +26,7 @@ SECRET_KEY = 'jldbm0$y-$xek1-8(-fz!a2y)rx=4%&ydn66%^^nsb$1#ru^f_'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'mysite.com' , 'localhost', '127.0.0.1',
+    'mysite.com' , 'localhost', '127.0.0.1', '32232cd0.ngrok.io'
 ]
 
 SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '227383812269-uodqk1h3ee1nhiuc12itmpi32g1g7eif.apps.googleusercontent.com'
