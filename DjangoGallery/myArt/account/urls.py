@@ -22,6 +22,8 @@ urlpatterns = [
          name='password_reset_complete'),
     path('register/', views.register, name='register'),
     path('edit/', views.edit, name='edit'),
+
+
 ]
 
 # niby zastapic path('', include('django.contrib.auth.urls')),  wszystkie z auth view

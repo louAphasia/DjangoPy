@@ -3,6 +3,10 @@ from django.conf import settings
 from django.contrib.auth.models import User
 
 
+
+
+
+
 class Profile(models.Model):
     user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     date_birth = models.DateField(blank=True, null=True)

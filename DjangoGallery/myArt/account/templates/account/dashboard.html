@@ -5,10 +5,9 @@
     <h1>Dashboard</h1>
     {% with total_images_created=request.user.images_created.count %}
     <p>Welcome to your Account Profile</p>
-<p>Your gallery stores {{ total_images_created }} image {{ total_images_created|pluralize }}.</p>
+<p>Your gallery stores {{ total_images_created }} image{{ total_images_created|pluralize }}.</p>
   {% endwith %}
-<p> Drag the button to your gallery toolbar to upload images from other web <a href="javascript:{% include "gallery_launcher.js" %}"
-    class="button"> DJANGOtest Bookmark it</a></p>
+<p> Drag the button to your gallery toolbar to upload images from other web →<a href="javascript:{% include "gallery_launcher.js" %}" class="button"> Bookmark it</a><p>
 
     <p>You can <a href="{% url 'edit' %}"> edit your profile </a>  or <a href="{% url 'password_change' %}">change your password </a></p>
 {% endblock %}
