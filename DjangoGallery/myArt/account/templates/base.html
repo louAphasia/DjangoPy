@@ -41,14 +41,11 @@
     </ul>
 {% endif %}
     <div id="content">
-        {% block content %}
-        {% endblock %}
-    </div>
-     // mozna static w folderze download nie z apple
-<script
-    src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-</script>
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    {% block content %}
+    {% endblock %}
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
   <script>
     var csrftoken = Cookies.get('csrftoken');
     function csrfSafeMethod(method) {
@@ -62,11 +59,10 @@
         }
       }
     });
-<script>
     $(document).ready(function(){
-    {% block domready %}
-    {% endblock %}
-    });
-</script>
+      {% block domready %}
+      {% endblock %}
+       });
+  </script>
 </body>
 </html>

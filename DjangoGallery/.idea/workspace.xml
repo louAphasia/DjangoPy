@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d42c15-3e98-432e-851f-233fd5d44831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myArt/images/static/css/bookmarklet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myArt/images/templates/images/image/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/account/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/static/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/static/js/gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/templates/account/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/account/templates/account/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myArt/account/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/account/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/templates/images/image/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/templates/images/image/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/account/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/account/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myArt/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/images/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/images/templates/gallery_launcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/templates/gallery_launcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/images/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myArt/images/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myArt/images/templates/images/image/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/images/templates/images/image/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myArt/myArt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myArt/myArt/settings.py" afterDir="false" />
     </list>
     <list id="151e953f-e7e4-4ddc-87f4-a0c0e545e261" name="Revert: 16 sierpien" comment="re">
@@ -44,35 +32,38 @@
           <entry key="cfg" value="1" />
           <entry key="css" value="6" />
           <entry key="html" value="77" />
+          <entry key="jpg" value="2" />
           <entry key="js" value="6" />
-          <entry key="py" value="99" />
+          <entry key="png" value="1" />
+          <entry key="py" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="6" />
           <entry key="HTML" value="77" />
+          <entry key="Image" value="3" />
           <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="99" />
+          <entry key="Python" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="58" />
-          <entry key="html" value="5953" />
+          <entry key="html" value="5954" />
           <entry key="js" value="308" />
-          <entry key="py" value="8468" />
-          <entry key="txt" value="169" />
+          <entry key="py" value="8484" />
+          <entry key="txt" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="58" />
-          <entry key="HTML" value="5953" />
+          <entry key="HTML" value="5954" />
           <entry key="JavaScript" value="308" />
-          <entry key="PLAIN_TEXT" value="169" />
-          <entry key="Python" value="8468" />
+          <entry key="PLAIN_TEXT" value="204" />
+          <entry key="Python" value="8484" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -89,30 +80,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/account/templates/account/dashboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/myArt/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="30" />
-              <folding>
-                <element signature="e#629#661#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myArt/images/static/js/gallery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="969">
               <caret line="57" column="53" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="57" />
             </state>
           </provider>
@@ -121,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myArt/images/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="476">
               <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -132,19 +102,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/images/templates/gallery_launcher.js">
+        <entry file="file://$PROJECT_DIR$/myArt/images/templates/images/image/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="98" selection-start-line="5" selection-start-column="98" selection-end-line="5" selection-end-column="98" />
+            <state relative-caret-position="442">
+              <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myArt/images/templates/images/image/detail.html">
+        <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -152,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myArt/account/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+            <state relative-caret-position="272">
+              <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -171,26 +141,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myArt/images/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-                <marker date="1534854290441" expanded="true" signature="768:841" ph="..." />
-                <marker date="1534854290441" expanded="true" signature="922:927" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myArt/images/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="102">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding>
-                <element signature="e#0#45#0" expanded="true" />
                 <marker date="1534938161200" expanded="true" signature="395:849" ph="..." />
               </folding>
             </state>
@@ -267,12 +222,12 @@
         <option value="$PROJECT_DIR$/myArt/account/static/js/gallery.js" />
         <option value="$PROJECT_DIR$/myArt/images/templates/gallery_launcher.js" />
         <option value="$PROJECT_DIR$/myArt/images/static/js/gallery.js" />
-        <option value="$PROJECT_DIR$/myArt/myArt/settings.py" />
         <option value="$PROJECT_DIR$/myArt/account/templates/account/dashboard.html" />
         <option value="$PROJECT_DIR$/myArt/images/views.py" />
         <option value="$PROJECT_DIR$/myArt/images/urls.py" />
-        <option value="$PROJECT_DIR$/myArt/account/templates/base.html" />
         <option value="$PROJECT_DIR$/myArt/images/templates/images/image/detail.html" />
+        <option value="$PROJECT_DIR$/myArt/account/templates/base.html" />
+        <option value="$PROJECT_DIR$/myArt/myArt/settings.py" />
       </list>
     </option>
   </component>
@@ -391,76 +346,6 @@
               <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="image" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="08" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="08" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="19" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="08" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="20" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="08" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="21" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="myArt" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="media" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2018" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="08" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="22" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="DjangoGallery" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -610,14 +495,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534780338726</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="22  bookmark ajax first jquery stop to learn">
+      <created>1534945342344</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1534945342344</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.26308724" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.25302014" />
       <window_info id="Favorites" order="2" sideWeight="0.5010571" side_tool="true" weight="0.25302014" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -628,7 +520,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.7395973" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.53959733" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.53959733" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4604027" side_tool="true" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -728,7 +620,8 @@
     <MESSAGE value="19  social auth images gallery half" />
     <MESSAGE value="20  social auth images gallery half" />
     <MESSAGE value="20  images bookmark ngrok" />
-    <option name="LAST_COMMIT_MESSAGE" value="20  images bookmark ngrok" />
+    <MESSAGE value="22  bookmark ajax first jquery stop to learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="22  bookmark ajax first jquery stop to learn" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -959,34 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/images/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1534691038687" expanded="true" signature="205:210" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/myArt/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="e#629#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myArt/images/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -995,27 +860,6 @@
             <element signature="e#0#28#0" expanded="true" />
             <marker date="1534854290441" expanded="true" signature="768:841" ph="..." />
             <marker date="1534854290441" expanded="true" signature="922:927" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/images/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-            <marker date="1534938161200" expanded="true" signature="395:849" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/images/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1034,24 +878,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myArt/images/static/js/gallery.js">
+    <entry file="file://$PROJECT_DIR$/myArt/images/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/images/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <marker date="1534938161200" expanded="true" signature="395:849" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/images/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <marker date="1534691038687" expanded="true" signature="205:210" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/media/cache/cf/1d/cf1d3ca0fe9aaa1c3b8099a9da287288.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/media/users/2018/08/18/2018-06-11_01-36-19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/media/cache/47/ac/47ac2364d4f058c81ad8a81e916853c9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/myArt/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/images/static/js/gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
           <caret line="57" column="53" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myArt/account/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        <state relative-caret-position="272">
+          <caret line="64" column="10" lean-forward="true" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myArt/images/templates/images/image/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+        <state relative-caret-position="442">
+          <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myArt/myArt/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
         </state>
       </provider>
     </entry>
