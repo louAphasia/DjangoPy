@@ -28,7 +28,7 @@ DEBUG = True
 THUMBNAIL_DEBUG = True
 
 ALLOWED_HOSTS = [
-    'mysite.com' , 'localhost', '127.0.0.1', '747e7cef.ngrok.io',
+    'mysite.com' , 'localhost', '127.0.0.1', '26f75122.ngrok.io',
 ]
 
 SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '227383812269-uodqk1h3ee1nhiuc12itmpi32g1g7eif.apps.googleusercontent.com'
